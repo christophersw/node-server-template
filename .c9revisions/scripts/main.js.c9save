@@ -1,0 +1,4 @@
+{"ts":1349291342950,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":false,"ts":1349291420904,"patch":[[{"diffs":[[1,"window.onload = function(){\n    alert('This alert brought to you by JavaScript, served as' +\n            'static file from on a Node server');            \n};"]],"start1":0,"start2":0,"length1":0,"length2":157}]],"length":157,"saved":false}
+{"ts":1349291439555,"patch":[[{"diffs":[[1,"/*MAIN.js*/\n\n"],[0,"window.o"]],"start1":0,"start2":0,"length1":8,"length2":21}]],"length":170,"saved":false}
+{"ts":1349291922748,"patch":[[{"diffs":[[0,"erved as"],[1," "],[0,"' +\n    "]],"start1":94,"start2":94,"length1":16,"length2":17},{"diffs":[[0,"       '"],[1,"a "],[0,"static f"]],"start1":112,"start2":112,"length1":16,"length2":18}]],"length":173,"saved":false}
